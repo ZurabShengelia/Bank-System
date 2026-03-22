@@ -33,7 +33,7 @@ A modern, feature-rich banking application built with React and styled with Tail
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/bank-system.git
+   git clone 
    cd bank-system
    ```
 
